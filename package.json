@@ -1,23 +1,13 @@
 {
-<<<<<<< HEAD
   "name": "url-shortener",
   "version": "1.0.0",
   "description": "A simple URL shortener backend using Node.js and Express.",
-=======
-  "name": "todo-api",
-  "version": "1.0.0",
-  "description": "A simple RESTful API for a To-Do List using Node.js and Express.",
->>>>>>> 69840578d2bece747f560b405d20e09b139ddeb8
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-<<<<<<< HEAD
     "express": "^4.18.2",
     "nanoid": "^4.0.2"
-=======
-    "express": "^4.18.2"
->>>>>>> 69840578d2bece747f560b405d20e09b139ddeb8
   }
 }
